@@ -1,0 +1,6 @@
+[package]
+name = "conditions"
+version = "0.1.0"
+authors = ["Abhishek Amralkar <abhishekanand1984@gmail.com>"]
+
+[dependencies]
