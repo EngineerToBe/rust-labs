@@ -5,3 +5,8 @@ Its my attempt to get RUST Lang 101(for now) documented as per my understanding.
 If you see any wring statement or any wring line of code, please open PR.
 
 *** Getting Started
+
+All the examples have some code and some theory behind them
+
+- Clone the repo.
+-
