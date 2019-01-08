@@ -1,0 +1,7 @@
+* RUST Lang Labs
+
+Its my attempt to get RUST Lang 101(for now) documented as per my understanding.
+
+If you see any wring statement or any wring line of code, please open PR.
+
+*** Getting Started
